@@ -1,6 +1,6 @@
 {
   "name": "grunt-ban-word",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.4"
