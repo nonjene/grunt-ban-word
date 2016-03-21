@@ -1,0 +1,32 @@
+{
+  "name": "grunt-ban-word",
+  "version": "0.1.0",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.4"
+  },
+  "dependencies": {
+
+  },
+  "description": "A grunt plugin to check ban words.",
+  "main": "Gruntfile.js",
+  "directories": {},
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nonjene/grunt-ban-word.git"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "banWord",
+    "禁用词"
+  ],
+  "author": "nonjene",
+  "bugs": {
+    "url": "https://github.com/nonjene/grunt-ban-word/issues"
+  },
+  "homepage": "https://github.com/nonjene/grunt-ban-word#readme"
+}
